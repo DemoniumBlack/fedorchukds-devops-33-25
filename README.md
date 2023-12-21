@@ -67,7 +67,7 @@
 
 ![img_7.png](IMG/img_7.png)
 
-5. Загрузил `settings.xml` в набор конфигураций maven в teamcity, предварительно записав туда креды для подключения к nexus:
+5. Загрузил `settings.xml` в набор конфигураций maven в teamcity, предварительно записав туда креды для подключения к Nexus:
 
 ![img_8.png](IMG/img_8.png)
 
